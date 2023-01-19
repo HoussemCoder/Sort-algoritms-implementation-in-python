@@ -1,6 +1,6 @@
 # 8 sorting algorithms implemented using python
 
-This file contain almost all sorting algorithms that are usually widely used.
+This file contains almost all sorting algorithms that are usually widely used.
 
 1- Bubble sort algorithm
 2- Insertion sort algorithm
@@ -13,4 +13,4 @@ This file contain almost all sorting algorithms that are usually widely used.
 
 - Every algorithm has been implemented to sort a simple python list (or array).
 - Including time and space complexity for each one.
--  //  //  docs & comments to get better understanding.
+-  //  //  documentation & comments to get better understanding.
